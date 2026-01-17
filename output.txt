@@ -1,0 +1,55 @@
+========================================
+        WELCOME TO THE MOTEL
+           🟢 VEG ONLY 🟢
+        Hungry? We're Ready!
+========================================
+
+MAIN MENU (VEG ONLY)
+1.Breakfast 🍽️
+2.Lunch / Dinner 🥣
+3.Hot Beverages ☕
+4.Exit 😋
+Enter choice: 1
+
+--- BREAKFAST MENU ---
+1.Idly 2.Vada 3.Masala Dosa 4.Set Dosa
+5.Chole Bature 6.Pulao 7.Bisi Bele Bath 8.Curd Rice
+9.Back
+1
+Press + to ADD, - to REMOVE, q to quit item
++
+Price: Rs.10 | Qty: 1 | Amount: Rs.10
++
+Price: Rs.10 | Qty: 2 | Amount: Rs.20
+q
+
+--- BREAKFAST MENU ---
+1.Idly 2.Vada 3.Masala Dosa 4.Set Dosa
+5.Chole Bature 6.Pulao 7.Bisi Bele Bath 8.Curd Rice
+9.Back
+2
+Press + to ADD, - to REMOVE, q to quit item
++
+Price: Rs.15 | Qty: 1 | Amount: Rs.15
+q
+
+--- BREAKFAST MENU ---
+1.Idly 2.Vada 3.Masala Dosa 4.Set Dosa
+5.Chole Bature 6.Pulao 7.Bisi Bele Bath 8.Curd Rice
+9.Back
+9
+
+MAIN MENU (VEG ONLY)
+1.Breakfast 🍽️
+2.Lunch / Dinner 🥣
+3.Hot Beverages ☕
+4.Exit 😋
+Enter choice: 4
+
+---------- FINAL BILL ----------
+Subtotal : Rs.35
+GST 5%    : Rs.1
+Total     : Rs.36
+--------------------------------
+🟢 VEG ONLY | Hungry? We're Ready!😋
+Thank You! Visit Again 😊
